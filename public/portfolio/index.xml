@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Francesco Bux - Portfolio Website</title>
+    <link>https://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Francesco Bux - Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Nov 2016 20:22:08 +0530</lastBuildDate>
+    <atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Engineer @ META</title>
+      <link>https://example.org/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <guid>https://example.org/portfolio/work7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lead Data Engineer @ BUX</title>
+      <link>https://example.org/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      <guid>https://example.org/portfolio/work6/</guid>
+      <description>&lt;p&gt;Despite the name, it was not my company.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tech Lead &amp; Manager @ Oney</title>
+      <link>https://example.org/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <guid>https://example.org/portfolio/work5/</guid>
+      <description>&lt;p&gt;Covering multiple key responsibilities at support of the BI analyst in the GDO space.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Analytics Engineer @ Nokia</title>
+      <link>https://example.org/portfolio/work3/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <guid>https://example.org/portfolio/work3/</guid>
+      <description>&lt;p&gt;Connecting data points in the vast space of the TELCO domain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Full stack DevOp &amp; Cloud Engineer @ eLearnify</title>
+      <link>https://example.org/portfolio/work4/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <guid>https://example.org/portfolio/work4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Full stack Developer @ Knowdive</title>
+      <link>https://example.org/portfolio/work10/</link>
+      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <guid>https://example.org/portfolio/work10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CTO/Co-founder @ SkipassGo</title>
+      <link>https://example.org/portfolio/work2/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <guid>https://example.org/portfolio/work2/</guid>
+      <description>&lt;p&gt;As the &lt;strong&gt;Lead Developer&lt;/strong&gt;, I assumed a pivotal role in spearheading the creation of an entire suite of products and a cutting-edge technology stack, commencing from the initial design phase and culminating in successful deployment, complete with the meticulous execution of implementation steps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entrepreneur in residence</title>
+      <link>https://example.org/portfolio/work1/</link>
+      <pubDate>Thu, 01 May 2014 18:25:22 +0530</pubDate>
+      <guid>https://example.org/portfolio/work1/</guid>
+      <description>&lt;p&gt;I have ve been selected for the acceleration program with my startup idea.
+TechPeaks is a People Accelerator involving both individuals and teams to start-up successful global businesses in information technology. TechPeaks is based in Trento, Italy, in the heart of Europe.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

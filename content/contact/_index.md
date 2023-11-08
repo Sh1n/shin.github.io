@@ -3,8 +3,8 @@ date = "2016-11-06T13:00:25+05:30"
 title = "Get in touch"
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+I am a Lead Data Engineer and Digital Product Developer with a comprehensive approach to software development. My focus extends beyond code creation, encompassing the entire production journey and the end-user value. The same principle applies to data solutions.
 
-Effects present letters inquiry no an removed or friends. Desire behind latter me though in. Supposing shameless am he engrossed up additions. My possible peculiar together to. Desire so better am cannot he up before points. Remember mistaken opinions it pleasure of debating. Court front maids forty if aware their at. Chicken use are pressed removed.
+My enthusiasm drives me to embrace new and open-source technologies whenever possible, thereby expanding my skill set. Yet, my unwavering commitment remains centered on understanding user needs and meeting stakeholder expectations.
 
-Able an hope of body. Any nay shyness article matters own removal nothing his forming. Gay own additions education satisfied the perpetual. If he cause manor happy. Without farther she exposed saw man led. Along on happy could cease green oh. 
+In my role as Lead Data Engineer, I have overseen the construction of a sophisticated data platform, catering to both B2B and B2C product suites across diverse sectors. Additionally, I have taken the lead in developing digital products for prominent players in various markets such as edutech, fintech, martech, gdo and telco and travel industry.

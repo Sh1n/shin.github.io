@@ -13,7 +13,9 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Describe your website"
+  description = "Experienced professional showcasing versatile skills in Full Stack Development, Data Engineering, and Solution Architecture. Proven track record in spearheading transformative projects, leading teams, and delivering data-driven solutions at a global scale"
+
+  personalImage = "/img/my_linkedin.jpeg"
 
   copyright = "&copy;2024 Francesco @ Octosoft"
   sidebarAbout = [
@@ -31,7 +33,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "francesco@octosoft.it"
+  email = "f/xnqkrwnw"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -57,7 +59,7 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  email         = "francesco@octosoft.it"
+  email         = "francesco[at]octosoft.it"
   linkedin      = "www.linkedin.com/in/francescobux"
   github        = "https://github.com/sh1n"
   whatsapp      = "https://api.whatsapp.com/send?phone=31683265586&text=Hi%20Francesco%2C%20I%20would%20like%20to%20discuss%20a%20project%20with%20you!"

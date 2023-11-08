@@ -2,7 +2,7 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     
-    <img src="{{ .Site.BaseURL }} / {{ .Site.Params.personalImage }}" alt="Me" class="img-circle personal-image">
+    <img src="{{ .Site.BaseURL }}img/my_linkedin.jpeg" alt="Me" class="img-circle personal-image">
 
     {{ range .Site.Params.sidebarAbout }}
       <p class="sidebar-p">{{ . | safeHTML }}</p>

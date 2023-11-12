@@ -1,4 +1,4 @@
-baseURL = 'https://francescobux.com/'
+baseURL = 'https://francescobux.com'
 languageCode = 'en-us'
 title = 'Francesco Bux - Portfolio Website'
 theme = 'creative-portfolio'
@@ -13,7 +13,7 @@ googleAnalytics = "G-J3M4VCLVR1"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Experienced professional showcasing versatile skills in Full Stack Development, Data Engineering, and Solution Architecture. Proven track record in spearheading transformative projects, leading teams, and delivering data-driven solutions at a global scale"
+  description = "Experienced professional with versatile skills in Full Stack Development, Data Engineering and Solution Architecture. Proven track record in spearheading transformative projects, leading teams, and delivering data-driven solutions at a global scale"
 
   personalImage = "![targets](/img/my_linkedin.jpeg)"
 

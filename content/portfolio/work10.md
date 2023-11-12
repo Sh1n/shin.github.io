@@ -5,6 +5,11 @@ showonlyimage = false
 date = "2016-11-05T20:22:08+05:30"
 title = "Full stack Developer @ Knowdive"
 weight = 10
+techs = [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png",
+]
 +++
 
 <!--more-->

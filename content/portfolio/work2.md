@@ -5,6 +5,14 @@ draft = false
 image = "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/jwzvf9acagw5dmioogqi"
 showonlyimage = false
 weight = 10
+techs = [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/2560px-Logo.min.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+
+]
 +++
 
 As the **Lead Developer**, I assumed a pivotal role in spearheading the creation of an entire suite of products and a cutting-edge technology stack, commencing from the initial design phase and culminating in successful deployment, complete with the meticulous execution of implementation steps.

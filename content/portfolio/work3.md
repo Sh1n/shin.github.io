@@ -5,6 +5,11 @@ date = "2016-11-05T19:44:32+05:30"
 title = "Analytics Engineer @ Nokia"
 draft = false
 weight = 2
+techs = [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1280px-Scala-full-color.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1138px-Apache_Hive_logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+]
 +++
 
 Connecting data points in the vast space of the TELCO domain.

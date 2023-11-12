@@ -5,6 +5,11 @@ date = "2016-11-05T19:57:40+05:30"
 title = "Data Engineer @ META"
 draft = false
 weight = 1
+techs = [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Apache_Hive_logo.svg/1138px-Apache_Hive_logo.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png"
+]
 +++
 
 <!--more-->

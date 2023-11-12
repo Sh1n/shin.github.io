@@ -8,7 +8,7 @@ weight = 10
 techs = []
 +++
 
-I have ve been selected for the acceleration program with my startup idea.
+I have been selected for the acceleration program with my startup idea.
 TechPeaks is a People Accelerator involving both individuals and teams to start-up successful global businesses in information technology. TechPeaks is based in Trento, Italy, in the heart of Europe.
 
 <!--more-->

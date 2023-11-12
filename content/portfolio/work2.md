@@ -15,9 +15,9 @@ techs = [
 ]
 +++
 
-As the **Lead Developer**, I assumed a pivotal role in spearheading the creation of an entire suite of products and a cutting-edge technology stack, commencing from the initial design phase and culminating in successful deployment, complete with the meticulous execution of implementation steps.
-
 <!--more-->
+
+As the **Lead Developer**, I assumed a pivotal role in spearheading the creation of an entire suite of products and a cutting-edge technology stack, commencing from the initial design phase and culminating in successful deployment, complete with the meticulous execution of implementation steps.
 
 ## Design of Key Components
 

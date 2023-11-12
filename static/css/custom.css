@@ -2,3 +2,12 @@
     margin-bottom: 20px;
     border: 1px solid #2065a1;
 }
+
+body, p {
+
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Comfortaa", Helvetica, Arial, sans-serif;
+}

@@ -5,6 +5,7 @@ image = "https://techcrunch.com/wp-content/uploads/2013/03/screen-shot-2013-03-2
 date = "2014-05-01T18:25:22+05:30"
 title = "Entrepreneur in residence"
 weight = 10
+techs = []
 +++
 
 I have ve been selected for the acceleration program with my startup idea.

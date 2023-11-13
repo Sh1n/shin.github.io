@@ -30,8 +30,6 @@
   {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
 {{ end }}
 {{ template "_internal/google_analytics.html" . }}
-
-
 {{ with .Site.Title }}<meta property="og:title" content="{{ . }}">{{ end }}
 {{ with .Site.Params.description }}<meta property="og:description" content="{{ . }}">{{ end }}
 {{ with .Site.BaseURL }}<meta property="og:url" content="{{ . }}">{{ end }}

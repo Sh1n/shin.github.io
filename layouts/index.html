@@ -1,0 +1,13 @@
+<head>
+    {{ range .Site.Params.navlinks }}
+    {{ if .home }}
+    <meta http-equiv="refresh" content="0; URL={{ .url | absURL }}" />
+    {{ end }}
+    {{ end }}
+
+{{ with .Site.Title }}<meta property="og:title" content="{{ . }}">{{ end }}
+{{ with .Site.Params.description }}<meta property="og:description" content="{{ . }}">{{ end }}
+{{ with .Site.BaseURL }}<meta property="og:url" content="{{ . }}">{{ end }}
+<meta property="og:image" content="{{ .Site.BaseURL }}img/my_linkedin.jpeg">
+<meta property="og:type" content="website">
+</head>

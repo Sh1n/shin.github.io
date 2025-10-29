@@ -24,7 +24,7 @@ techs = [
 
 <!--more-->
 
-For this customer I have designed, developer and engineered multiple tailored solutions, meticulously following the AGILE methodology. My primary focus revolves around web-based scenarios, where I craft versatile solutions to address unique needs.
+For this customer I have designed, developed, and engineered multiple tailored solutions, meticulously following the AGILE methodology. My primary focus revolves around web-based scenarios, where I craft versatile solutions to address unique needs.
 
 ## Methodology and Technological Expertise
 
@@ -49,7 +49,7 @@ I have integrated different cloud platforms and infrastructure, including:
 
 ## Multilingual Proficiency
 
-The projects and component spanned across multiple languages, including:
+The projects and components spanned across multiple languages, including:
 
 - **Python**
 - **PHP**

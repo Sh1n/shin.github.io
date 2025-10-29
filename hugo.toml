@@ -19,7 +19,7 @@ googleAnalytics = "G-J3M4VCLVR1"
 
   copyright = "&copy;2024 Francesco @ Octosoft"
   sidebarAbout = [
-    "I am a CTO with experience in multiple domain, from DevOps to MLOps, passing by cloud, data and software engineering. You describe me your idea, I will describe you how to realize it!"
+    "I am a CTO with experience in multiple domains, from DevOps to MLOps, passing by cloud, data and software engineering. Tell me your idea, and I'll tell you how to realize it!"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

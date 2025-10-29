@@ -13,4 +13,4 @@ TechPeaks is a People Accelerator involving both individuals and teams to start-
 
 <!--more-->
 
-At the middle of the program I have started working on and supporting the idea of SkipassGo that has been awarded one of the 5 best business ideas and received €100K of funding.
+In the middle of the program I have started working on and supporting the idea of SkipassGo that has been awarded one of the 5 best business ideas and received €100K of funding.

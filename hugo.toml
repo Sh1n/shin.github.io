@@ -13,13 +13,13 @@ googleAnalytics = "G-J3M4VCLVR1"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "Experienced professional with versatile skills in Full Stack Development, Data Engineering and Solution Architecture. Proven track record in spearheading transformative projects, leading teams, and delivering data-driven solutions at a global scale"
+  description = "Fractional CTO, Data/SW/AI Engineer, and Founder with extensive experience building innovative platforms for startups, scale-ups, and corporates. Currently Head of Data at Tebi, ex-Meta, with expertise in software/cloud/data/ML engineering and technical leadership"
 
   personalImage = "![targets](/img/my_linkedin.jpeg)"
 
   copyright = "&copy;2024 Francesco @ Octosoft"
   sidebarAbout = [
-    "I am a CTO with experience in multiple domains, from DevOps to MLOps, passing by cloud, data and software engineering. Tell me your idea, and I'll tell you how to realize it!"
+    "Fractional CTO and Head of Data at Tebi (ex-Meta). I specialize in building scalable platforms across software, cloud, data, and ML engineering. Based in Amsterdam, I help startups and scale-ups turn ideas into reality."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

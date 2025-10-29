@@ -2,9 +2,9 @@
 draft = false
 image = "https://play-lh.googleusercontent.com/TdtMbVy74mEnz0qLh4xGKO-IZdoq33nQHXloea9RykU6HFvnOTA20yMRNEIENh87aUXp"
 date = "2016-11-05T19:56:17+05:30"
-title = "Lead Data Engineer @ BUX"
+title = "Lead Data Engineer @ BUX (2020-2022)"
 showonlyimage = false
-weight = 1
+weight = 2
 techs = [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",

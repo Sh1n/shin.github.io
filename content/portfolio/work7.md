@@ -2,7 +2,7 @@
 image = "https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Data Engineer @ META"
+title = "Data Engineer @ META (2022)"
 draft = false
 weight = 1
 techs = [
